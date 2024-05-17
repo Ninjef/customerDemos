@@ -1,0 +1,1 @@
+Open DocumentationStyle1.md and DocumentationStyle2.md for examples of this codebase documented in different ways.
